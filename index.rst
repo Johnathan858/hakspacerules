@@ -8,7 +8,7 @@ Nottingham Hackspace Rules
 
 Welcome to the Nottingham Hackspace Rules. This contains the rules which every member and guest of the space is expected to follow. They do not define what you can do, only what you must not do.  All members are expected to have an awareness of the rules, and confirm that they are understood when becoming a member. If you're ever unsure, you should always ask, either by emailing the trustees, or by asking on Discord in the appropriate channel.
 
-There are nine core rules,
+There are ten core rules,
 
 - Rule 0: `Do Not Be On Fire <do-not-be-on-fire.html>`_
 - Rule 1: `Membership of the Hackspace <membership-of-the-hackspace.html>`_
@@ -19,6 +19,7 @@ There are nine core rules,
 - Rule 6: `UK Legislation <uk-legislation.html>`_
 - Rule 7: `Storage in the Hackspace <storage-in-the-hackspace.html>`_
 - Rule 8: `Donating Items to Nottingham Hackspace <donating-to-nottingham-hackspace.html>`_
+- Rule 9: `No Sleeping <sleeping.html>`_
 
 Additionally, there are four appendices,
 
@@ -49,6 +50,7 @@ Contributions to the rules are welcome. There are instructions on how to do this
     Rule 6. UK Legislation <uk-legislation>
     Rule 7. Storage in the Hackspace <storage-in-the-hackspace>
     Rule 8. Donating Items to Nottingham Hackspace <donating-to-nottingham-hackspace>
+    Rule 9. No Sleeping <sleeping>
     Appendix A: Complaints Policy <complaints-policy>
     Appendix B: SafeSpaces Policy <safespaces>
     Appendix C: Discord Policy <discord>
